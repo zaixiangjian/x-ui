@@ -15,6 +15,9 @@
 - 更多高级配置项，详见面板
 
 # 安装&升级
+```
+bash <(curl -Ls https://raw.githubusercontent.com/zaixiangjian/x-ui/master/install.sh)
+```
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
